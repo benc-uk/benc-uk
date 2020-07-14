@@ -6,3 +6,4 @@
 - 🕹 Games I've released - https://joyrexj9.itch.io/
 - ❤ Love: JS/Node/Golang, computer graphics, web dev (front and backend), electronic music
 
+![](https://github-readme-stats.vercel.app/api?username=benc-uk&show_icons=true)
