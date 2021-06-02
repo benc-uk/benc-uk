@@ -1,9 +1,7 @@
-### Howdy! 😃
+### Howdy! I'm Ben 😃
 
 - 💬 My Blog - https://benc.dev/blog/  
-- 🎹 My Music - https://soundcloud.com/joyrexj9  
-- 🛠 My Projects - pinned repos below, and https://benc.dev/projects/
-- 🕹 Games I've released - https://joyrexj9.itch.io/
-- ❤ Love: JS/Node/Golang, computer graphics, web dev (front and backend), electronic music
+- 🕊 Twitter - https://twitter.com/BenCodeGeek
+- ❤ JS/Node/Golang, computer graphics, web dev (front and backend), electronic music
 
 ![](https://github-readme-stats.vercel.app/api?username=benc-uk&show_icons=true)
