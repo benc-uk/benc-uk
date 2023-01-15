@@ -5,4 +5,4 @@
 - 💬 My Blog - https://benc.dev/blog/  
 - 🕊 Twitter - https://twitter.com/BenCodeGeek
 
-![](https://github-readme-stats.vercel.app/api?username=benc-uk&show_icons=true&theme=react)
+![](https://github-readme-stats-ten-gilt.vercel.app/api?username=benc-uk&show_icons=true&theme=react)
